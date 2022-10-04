@@ -1,0 +1,11 @@
+  - geopandas
+  - geopy
+  - bokeh
+  - contextily
+  - matplotlib
+  - folium
+  - mplleaflet
+  - geoplot
+  - osmnx
+  - pip:
+    - git+https://github.com/mullenkamp/PyCRS
