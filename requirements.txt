@@ -1,4 +1,8 @@
   - geopandas
+  - pandas
+  - numpy
+  - imageio
+  - nose
   - geopy
   - bokeh
   - contextily
@@ -7,5 +11,6 @@
   - mplleaflet
   - geoplot
   - osmnx
+  - jupyter-offlinenotebook
   - pip:
     - git+https://github.com/mullenkamp/PyCRS
