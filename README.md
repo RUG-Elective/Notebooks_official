@@ -28,10 +28,15 @@ This briefly describes how to install a Python virtual environment for the Geosp
     ```bash
     conda activate geospatial-student
     ```
-3. Install Jupyterlab
+3. Install JupyterLab
    ```bash
-   pip install jupyterlab
+   pip install jupyterLab
    ```
+   
+4. Run JupyterLab
+   ```bash
+   jupyter lab
+  ```
 
 
 
