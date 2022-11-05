@@ -24,10 +24,14 @@ This briefly describes how to install a Python virtual environment for the Geosp
     ```bash
     mamba env create -f geospatial-student.yml
     ```
-2. Activate the new environment and update JupyterLab
+2. Activate the new environment
     ```bash
     conda activate geospatial-student
     ```
+3. Install Jupyterlab
+   ```bash
+   pip install jupyterlab
+   ```
 
 
 
