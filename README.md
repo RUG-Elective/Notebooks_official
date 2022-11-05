@@ -37,6 +37,3 @@ This briefly describes how to install a Python virtual environment for the Geosp
    ```bash
    jupyter lab
   ```
-
-
-
