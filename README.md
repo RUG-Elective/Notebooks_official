@@ -30,10 +30,10 @@ This briefly describes how to install a Python virtual environment for the Geosp
     ```
 3. Install JupyterLab
    ```bash
-   pip install jupyterLab
+   pip install jupyterlab
    ```
    
-4. Run JupyterLab
+4. Run Jupyterlab
    ```bash
    jupyter lab
   ```
