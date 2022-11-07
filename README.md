@@ -32,8 +32,15 @@ This briefly describes how to install a Python virtual environment for the Geosp
    ```bash
    pip install jupyterlab
    ```
-   
-4. Run Jupyterlab
+4. Install a new kernel (ipykernel) for the virtual environment
+   ```bash
+   pip install ipykernel
+   ```
+5. Register the environment as a kernel, give it a name and a display name
+   ```bash
+   python -m ipykernel install --user --name geospatial-student --display-name "Python (geospatial-student)"
+   ```
+6. Run Jupyterlab
    ```bash
    jupyter lab
   ```
