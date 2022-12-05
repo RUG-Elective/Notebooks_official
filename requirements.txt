@@ -1,6 +1,7 @@
   - geopandas
   - pandas
   - numpy
+  - pyproj
   - imageio
   - nose
   - geopy
@@ -10,7 +11,11 @@
   - folium
   - mplleaflet
   - geoplot
+  - networkx
   - osmnx
+  - Rtree
+  - Shapely
+  - requests
   - jupyter-offlinenotebook
   - pip:
     - git+https://github.com/mullenkamp/PyCRS
